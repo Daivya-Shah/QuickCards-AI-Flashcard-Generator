@@ -39,7 +39,7 @@ export async function POST(req) {
             product_data: {
               name: 'QuickCards AI Pro',
             },
-            unit_amount: 299, // $2.99 in cents
+            unit_amount: 499, // $4.99 in cents
             recurring: {
               interval: 'month',
               interval_count: 1,

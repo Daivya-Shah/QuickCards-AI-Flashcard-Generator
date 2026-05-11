@@ -334,7 +334,7 @@ export default function QuickCardsHomePage() {
                       Pro Plan
                     </Typography>
                     <Typography variant="body2" sx={{ mb: 2 }}>
-                      $5 / Month - Advanced Features
+                      $4.99 / Month - Advanced Features
                     </Typography>
                     <Typography variant="body2">
                       Unlock unlimited flashcards, advanced features, and priority support.
