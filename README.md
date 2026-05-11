@@ -109,7 +109,3 @@ utils/get-stripe.js           # Stripe.js singleton loader
 |---|---|---|
 | Basic | Free | Core flashcard generation and storage |
 | Pro | $4.99/month | Unlimited flashcards, advanced features, priority support |
-
-## Deployment
-
-The easiest way to deploy is with [Vercel](https://vercel.com). Connect your GitHub repo and add your environment variables in the Vercel dashboard. Everything else is handled automatically.
